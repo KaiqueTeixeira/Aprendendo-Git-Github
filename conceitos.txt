@@ -1,0 +1,53 @@
+# Commit
+O que é: Registro de uma alteração no repositório.
+Para que serve: Salva um ponto no histórico do projeto com uma mensagem explicativa.
+Exemplo: “Salvar mudanças feitas no arquivo index.html.”
+
+# Push
+O que é: Enviar commits locais para o repositório remoto (ex: GitHub).
+Para que serve: Atualiza o repositório online com o que foi feito localmente.
+Exemplo: “Enviar as alterações feitas no meu computador para o GitHub.”
+
+# Origin
+O que é: Nome padrão dado ao repositório remoto.
+Para que serve: Serve como referência para comandos que lidam com o repositório online.
+Exemplo: “origin” normalmente aponta para o GitHub.
+
+# Pull
+O que é: Trazer atualizações do repositório remoto para o seu local.
+Para que serve: Pegar as últimas mudanças feitas por outras pessoas.
+Exemplo: “Atualizar meu projeto com as mudanças feitas no GitHub.”
+
+# Fetch
+O que é: Busca atualizações do repositório remoto, mas não aplica elas automaticamente.
+Para que serve: Ver o que mudou antes de atualizar seu projeto local.
+Exemplo: “Verificar se há novas mudanças sem modificar meus arquivos locais ainda.”
+
+# Branch
+O que é: Uma “ramificação” do projeto para desenvolver algo novo sem afetar a principal.
+Para que serve: Trabalhar em novas funcionalidades separadamente.
+Exemplo: Criar uma branch chamada feature-login para programar a tela de login.
+
+# Master (ou main, em projetos mais novos)
+O que é: Nome padrão da branch principal do repositório.
+Para que serve: Geralmente contém a versão oficial e estável do projeto.
+
+# Merge
+O que é: Combinar as mudanças de uma branch com outra.
+Para que serve: Unir o que foi feito na branch de desenvolvimento com a principal.
+Exemplo: “Juntar a feature-login na main.”
+
+# Feature
+O que é: Um nome comum para branches que contêm novas funcionalidades.
+Para que serve: Organizar o trabalho com base no que está sendo desenvolvido.
+Exemplo: feature/cadastro-usuario, feature/api-conexao.
+
+# Clone
+O que é: Copiar um repositório remoto para seu computador.
+Para que serve: Baixar o código de um projeto para começar a trabalhar localmente.
+Comando: git clone URL-do-repositório
+
+# Fork
+O que é: Cópia de um repositório para a sua conta GitHub.
+Para que serve: Fazer alterações em um projeto de outra pessoa (geralmente open source).
+Exemplo: “Fiz um fork de um projeto legal para contribuir com ele.”
