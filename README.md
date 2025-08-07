@@ -2,6 +2,8 @@
 
 Repositório criado para organizar os arquivos e exercícios relacionados ao curso.
 
+Link do site realizado durante o curso -> [Clique aqui para acessar](https://kaiqueteixeira.github.io/Aprendendo-Git-Github/projeto-site/index.html)
+
 ---
 
 # Olá, mundo!
